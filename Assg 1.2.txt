@@ -1,0 +1,15 @@
+Difference between JVM,JDK and JRE
+
+JVM - (Java Virtual Machine)
+JVM is a major part of both JDK and JRE. because it is inbuilt in both. it provies us an environment 
+When we run java program using JRE or JDK it goes to JVM and JVM is responsible to execute the program line by line.
+
+
+
+JDK - (Java Development Kit)
+JDK is a which provide tools to develop and run the java program.
+
+
+
+JRE - (Java Runtime Environment)
+The JRE provides us the same environmrnt on any platform or operating system to run the program.
